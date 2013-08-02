@@ -9,4 +9,4 @@ This an early SVN import of https://github.com/PCGen/pcgen/tree/master/content/n
 How do I contribute?
 ====================
 
-If you want to contribute, please fork https://github.com/PCGen/pcgen/, create a feature branch with a 'descriptive name' and perform a (https://help.github.com/articles/using-pull-requests)[Pull request].
+If you want to contribute, please fork https://github.com/PCGen/pcgen/, create a feature branch with a 'descriptive name' and perform a [pull request](https://help.github.com/articles/using-pull-requests).
